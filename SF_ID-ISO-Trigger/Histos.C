@@ -1,5 +1,6 @@
 void Histos(){
 
+  // Arrange the SF in the TH2F
   //TFile *MuSF = TFile::Open("muonEffTop2D.root"); // Mu
   //TFile *MuSF = TFile::Open("ElecSF_tight_inclerrs.root"); // EG
   //TFile *MuSF = TFile::Open("triggerSummary_ee_tightleps.root"); // Trigger ee
